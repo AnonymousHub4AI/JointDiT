@@ -1795,12 +1795,11 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
 
 <div class="post">
 	<h2 class="pageTitle">Comparison</h2>
-	<p>
-	记得修改小节title 表格title和abstract
-    <br>
-	记得修改小节title 表格title和abstract
+    <p>
+Below cases further illustrate the comparison between Vanilla CFG and Enhanced Joint-CFG, demonstrating the former's ability to generate more varied visuals (as seen in case 1 with the forging hammer), maintain image clarity (as observed in case 2 with the rooster's head movement), create more coherent scenes (as in case 3 with the undisturbed bowling pins), and produce superior sound quality (as in case 4 with the more pure sound).
     </p>
 </div>
+
 
 
 <div style="display: flex; justify-content: space-between">
@@ -1808,12 +1807,12 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
         <table border="0" width="400px" style="table-layout: fixed;  margin-right: 10px;"> <!-- 表格边框设置为1 -->
             <!--<tr>Sample 1: Playing the flute.</tr>-->
             <tr> <!-- 表格的一行 -->
-                <th style="font-size:18px; font-weight: bold;">Example1</th> <!-- 表头单元格 -->
+                <th style="font-size:18px; font-weight: bold;">Case1</th> <!-- 表头单元格 -->
                 <th style="font-size:18px; font-weight: bold;"></th> <!-- 表头单元格 -->
             </tr>
             <tr> <!-- 表格的一行 -->
-                <th style="font-size:15px; font-weight: bold;">vanilla</th> <!-- 表头单元格 -->
-                <th style="font-size:15px; font-weight: bold;">final</th> <!-- 表头单元格 -->
+                <th style="font-size:15px; font-weight: bold;">Vanilla CFG</th> <!-- 表头单元格 -->
+                <th style="font-size:15px; font-weight: bold;">Joint CFG</th> <!-- 表头单元格 -->
             </tr>
             <tr> <!-- 表格的另一行 -->
                 <td> <!-- 表格的单元格 -->
@@ -1835,12 +1834,12 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
         <table border="0" width="400px" style="table-layout: fixed; margin-left: 10px;"> <!-- 表格边框设置为1 -->
             <!--<tr>Sample 1: Playing the flute.</tr>-->
             <tr> <!-- 表格的一行 -->
-                <th style="font-size:18px; font-weight: bold;">Example2</th> <!-- 表头单元格 -->
+                <th style="font-size:18px; font-weight: bold;">Case2</th> <!-- 表头单元格 -->
                 <th style="font-size:18px; font-weight: bold;"></th> <!-- 表头单元格 -->
             </tr>
             <tr> <!-- 表格的一行 -->
-                <th style="font-size:15px; font-weight: bold;">vanilla</th> <!-- 表头单元格 -->
-                <th style="font-size:15px; font-weight: bold;">final</th> <!-- 表头单元格 -->
+                <th style="font-size:15px; font-weight: bold;">Vanilla CFG</th> <!-- 表头单元格 -->
+                <th style="font-size:15px; font-weight: bold;">Joint CFG</th> <!-- 表头单元格 -->
             </tr>
             <tr> <!-- 表格的另一行 -->
                 <td> <!-- 表格的单元格 -->
@@ -1860,45 +1859,17 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
     </div>
 </div>
 
-
 <div style="display: flex; justify-content: space-between">
-    <div style="display: flex;">
-        <table border="0" width="400px" style="table-layout: fixed;  margin-right: 10px;"> <!-- 表格边框设置为1 -->
-            <!--<tr>Sample 1: Playing the flute.</tr>-->
-            <tr> <!-- 表格的一行 -->
-                <th style="font-size:18px; font-weight: bold;">Example3</th> <!-- 表头单元格 -->
-                <th style="font-size:18px; font-weight: bold;"></th> <!-- 表头单元格 -->
-            </tr>
-            <tr> <!-- 表格的一行 -->
-                <th style="font-size:15px; font-weight: bold;">vanilla</th> <!-- 表头单元格 -->
-                <th style="font-size:15px; font-weight: bold;">final</th> <!-- 表头单元格 -->
-            </tr>
-            <tr> <!-- 表格的另一行 -->
-                <td> <!-- 表格的单元格 -->
-                    <video height="140" controls>
-                        <source src="./assets/video/compa/vanillaCac949WVIog_000240_000250_4.0_7.0_02.mp4" type="video/mp4">
-                        您的浏览器不支持视频标签。
-                    </video>
-                </td>
-                <td> <!-- 表格的单元格 -->
-                    <video height="140" controls>
-                        <source src="./assets/video/compa/finalCac949WVIog_000240_000250_4.0_7.0_02.mp4" type="video/mp4">
-                        您的浏览器不支持视频标签。
-                    </video>
-                </td>
-            </tr>
-        </table>
-    </div>
     <div style="display: flex;">
         <table border="0" width="400px" style="table-layout: fixed; margin-left: 10px;"> <!-- 表格边框设置为1 -->
             <!--<tr>Sample 1: Playing the flute.</tr>-->
             <tr> <!-- 表格的一行 -->
-                <th style="font-size:18px; font-weight: bold;">Example4</th> <!-- 表头单元格 -->
+                <th style="font-size:18px; font-weight: bold;">Case3</th> <!-- 表头单元格 -->
                 <th style="font-size:18px; font-weight: bold;"></th> <!-- 表头单元格 -->
             </tr>
             <tr> <!-- 表格的一行 -->
-                <th style="font-size:15px; font-weight: bold;">vanilla</th> <!-- 表头单元格 -->
-                <th style="font-size:15px; font-weight: bold;">final</th> <!-- 表头单元格 -->
+                <th style="font-size:15px; font-weight: bold;">Vanilla CFG</th> <!-- 表头单元格 -->
+                <th style="font-size:15px; font-weight: bold;">Joint CFG</th> <!-- 表头单元格 -->
             </tr>
             <tr> <!-- 表格的另一行 -->
                 <td> <!-- 表格的单元格 -->
@@ -1916,4 +1887,36 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
             </tr>
         </table>
     </div>
+    <div style="display: flex;">
+    <table border="0" width="400px" style="table-layout: fixed;  margin-right: 10px;"> <!-- 表格边框设置为1 -->
+        <!--<tr>Sample 1: Playing the flute.</tr>-->
+        <tr> <!-- 表格的一行 -->
+            <th style="font-size:18px; font-weight: bold;">Case4</th> <!-- 表头单元格 -->
+            <th style="font-size:18px; font-weight: bold;"></th> <!-- 表头单元格 -->
+        </tr>
+        <tr> <!-- 表格的一行 -->
+            <th style="font-size:15px; font-weight: bold;">Vanilla CFG</th> <!-- 表头单元格 -->
+            <th style="font-size:15px; font-weight: bold;">Joint CFG</th> <!-- 表头单元格 -->
+        </tr>
+        <tr> <!-- 表格的另一行 -->
+            <td> <!-- 表格的单元格 -->
+                <video height="140" controls>
+                    <source src="./assets/video/compa/vanillaCac949WVIog_000240_000250_4.0_7.0_02.mp4" type="video/mp4">
+                    您的浏览器不支持视频标签。
+                </video>
+            </td>
+            <td> <!-- 表格的单元格 -->
+                <video height="140" controls>
+                    <source src="./assets/video/compa/finalCac949WVIog_000240_000250_4.0_7.0_02.mp4" type="video/mp4">
+                    您的浏览器不支持视频标签。
+                </video>
+            </td>
+        </tr>
+    </table>
+	</div>
 </div>
+
+
+
+
+
