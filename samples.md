@@ -1,18 +1,17 @@
 ---
 layout: default
-title: BridgeDiffusion
+title: JointDiT
 ---
 
 <div class="post">
 	<h2 class="pageTitle">AVSync15 Demos</h2>
-	<p>
-    记得修改小节title和abstract
-    <br>
-For each of the 15 categories in the AVSync test set, we selected an example video to show the results of different generation methods.
+    <p>
+For each of the 15 categories in the AVSync test set, we selected one example video to show the results of different generation methods.
     <br>
 It is recommended to use earphones to hear the demos videos, raise the volume and zoom in the videos.
     </p>
 </div>
+
 
 
 
@@ -930,14 +929,13 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
 
 <div class="post">
 	<h2 class="pageTitle">Greatesthits Demos</h2>
-	<p>
-    记得修改小节title和abstract
-    <br>
+    <p>
 We selected an 5 cases from Greatesthits test dataset to show the results of different generation methods.
     <br>
 It is recommended to use earphones to hear the demos videos, raise the volume and zoom in the videos.
     </p>
 </div>
+
 
 
 <h5 class="pageTitle" style="text-align: left;">Case 1.</h5>
@@ -1244,13 +1242,12 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
 <div class="post">
 	<h2 class="pageTitle">Landscape Demos</h2>
 	<p>
-    记得修改小节title和abstract
-    <br>
-For each of the 9 categories in the Landscape test set, we selected an example video to show the results of different generation methods.
+For each of the 9 categories in the Landscape test set, we selected one example video to show the results of different generation methods.
     <br>
 It is recommended to use earphones to hear the demos videos, raise the volume and zoom in the videos.
     </p>
 </div>
+
 
 <h5 class="pageTitle" style="text-align: left;">Explosion.</h5>
 
@@ -1804,6 +1801,8 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
 	记得修改小节title 表格title和abstract
     </p>
 </div>
+
+
 <div style="display: flex; justify-content: space-between">
     <div style="display: flex;">
         <table border="0" width="400px" style="table-layout: fixed;  margin-right: 10px;"> <!-- 表格边框设置为1 -->
@@ -1860,6 +1859,7 @@ It is recommended to use earphones to hear the demos videos, raise the volume an
         </table>
     </div>
 </div>
+
 
 <div style="display: flex; justify-content: space-between">
     <div style="display: flex;">
